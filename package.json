@@ -1,0 +1,16 @@
+{
+  "name": "pocket-function",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:humanlegacy/pocket-function.git"
+  },
+  "version": "1.0.2",
+  "description": "javascript便捷函数库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "humanlegacy",
+  "license": "MIT",
+  "dependencies": {}
+}
